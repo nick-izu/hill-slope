@@ -1,4 +1,4 @@
-dfnGen /dfnWorks/examples/full_regional/gen_4_user_ellipses.dat
+dfnGen /dfnWorks/examples/hill-slope/gen_4_user_ellipses.dat
 dfnFlow /None/None
 dfnFlow /None/None
 
